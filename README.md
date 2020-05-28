@@ -1,2 +1,5 @@
 # visitsCounter
-Count the number of visits.
+
+#####Made with PHP file-handeling.
+
+Count the number of visits on website.
